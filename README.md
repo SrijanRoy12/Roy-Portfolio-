@@ -1,4 +1,4 @@
-🌟 Roy Portfolio
+# 🌟 Roy Portfolio
 
 A modern and responsive personal portfolio website built to showcase my skills, projects, achievements, and journey as a Computer Science & Engineering student passionate about AI/ML, Full-Stack Development, and Problem Solving.
 
